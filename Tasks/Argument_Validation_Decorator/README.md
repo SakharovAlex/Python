@@ -31,6 +31,7 @@ exec(sys.stdin.read())
 # Пример 1
 
 Ввод
+
 this is for similar behaviour in python 2 and python 3
 from __future__ import print_function
 
@@ -45,11 +46,13 @@ except Exception as e:
     print(type(e).__name__)
 
 Вывод
+
 1 abcd
 
 # Пример 2
 
 Ввод
+
 this is for similar behaviour in python 2 and python 3
 from __future__ import print_function
 
@@ -62,5 +65,7 @@ try:
     f(1, 2)
 except Exception as e:
     print(type(e).__name__)
+
 Вывод
+
 TypeError
