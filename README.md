@@ -1,11 +1,11 @@
-# Python
+# Python #
 Tasks and projects from the MIPT Python course
 
-# Projects
+### Projects ###
 Cipher project and Telegram bot
 
-# Tasks
+### Tasks ###
 Different tasks on decorators, generators and OOP
 
-# Lab work
+### Lab work ###
 Laboratory work about analysis of cryptocurrency data using the pandas and matplotlib libraries.
