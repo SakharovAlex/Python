@@ -28,7 +28,7 @@ exec(sys.stdin.read())
 (Программа выполнит код, записанный во входном файле)
 
 
-#Пример 1
+# Пример 1
 
 Ввод
 this is for similar behaviour in python 2 and python 3
@@ -47,7 +47,7 @@ except Exception as e:
 Вывод
 1 abcd
 
-#Пример 2
+# Пример 2
 
 Ввод
 this is for similar behaviour in python 2 and python 3
